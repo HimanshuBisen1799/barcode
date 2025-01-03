@@ -1,0 +1,18 @@
+#reader {
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+#reader video {
+  border-radius: 0.375rem;
+}
+
+#reader__scan_region {
+  background: white;
+  border-radius: 0.375rem;
+}
+
+#reader__scan_region img {
+  display: none;
+}
